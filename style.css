@@ -1,0 +1,38 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+*::selection {
+    background-color: transparent;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+/* **********HEADER********** */
+
+header {
+    background-image: url(../Orbit-Watches/images/black-brick-wall-neon-logo-desktop.webp);
+    background-size: cover;
+    background-position: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+/* **********WATCH GALLERY********** */
+
+#watchGallery {
+    width: 100vw;
+    min-height: 100vh;
+    background-color: #000000;
+}
+
+#watchList {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+}
