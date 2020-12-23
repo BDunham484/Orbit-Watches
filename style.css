@@ -22,6 +22,23 @@ header {
     height: 100vh;
 }
 
+#headerText {
+    font-family: monospace;
+    padding-top: 65vh;
+    text-align: center;
+    letter-spacing: .3rem;
+}
+
+h1 {
+
+    color: antiquewhite;
+}
+
+h2 {
+    color: antiquewhite;
+    padding-top: 5vh;
+}
+
 /* **********WATCH GALLERY********** */
 
 #watchGallery {
@@ -55,5 +72,9 @@ header {
 @media screen and (max-width: 1024px) {
     header {
         background-image: url(../Orbit-Watches/images/black-brick-wall-neon-logo-mobile.webp);
+    }
+
+    #headerText {
+        padding-top: 75vh;
     }
 }
