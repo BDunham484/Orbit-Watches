@@ -27,15 +27,16 @@ header {
     padding-top: 65vh;
     text-align: center;
     letter-spacing: .3rem;
-}
-
-h1 {
-
     color: antiquewhite;
 }
 
-h2 {
-    color: antiquewhite;
+#mainText {
+    font-size: 30px;
+    
+}
+
+#subText {
+    font-size: 20px;
     padding-top: 5vh;
 }
 
