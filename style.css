@@ -35,4 +35,25 @@ header {
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-around;
+    padding-top: 5vh;
+}
+
+.watchFaces {
+    width: 400px;
+    height: auto;
+    margin-bottom: 5vh;
+}
+
+
+
+
+
+
+
+/* **********MEDIA QUERIES********** */
+
+@media screen and (max-width: 1024px) {
+    header {
+        background-image: url(../Orbit-Watches/images/black-brick-wall-neon-logo-mobile.webp);
+    }
 }
