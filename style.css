@@ -40,6 +40,50 @@ header {
     padding-top: 5vh;
 }
 
+
+/* **********TEXT BOXES********** */
+
+#subHeader {
+    width: 100vw;
+    height: auto;
+}
+
+#textBoxList {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #000000;
+    padding-top: 5vh;
+    list-style: none;
+}
+
+.textBoxes {
+    width: 450px;
+    height: 250px;
+    background-color: #202020;
+    font-size: 20px;
+    color: antiquewhite;
+    text-align: center;
+    letter-spacing: 2px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+}
+
+.textBoxes h1 {
+    padding-bottom: 2vh;
+}
+
+.textBoxes li a {
+    white-space: nowrap;
+}
+
 /* **********WATCH GALLERY********** */
 
 #watchGallery {
