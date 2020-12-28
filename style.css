@@ -26,7 +26,7 @@ header {
     font-family: monospace;
     padding-top: 65vh;
     text-align: center;
-    letter-spacing: .3rem;
+    letter-spacing: 3px;
     color: antiquewhite;
 }
 
@@ -77,5 +77,36 @@ header {
 
     #headerText {
         padding-top: 75vh;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    #headerText {
+        padding-top: 73vh;
+        letter-spacing: 2px;
+    }
+
+    #mainText {
+        font-size: 25px;
+    }
+
+    #subText {
+        font-size: 15px;
+        padding-top: 3vh;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    #headerText {
+        letter-spacing: 1px;
+    }
+
+    #mainText {
+        font-size: 20px;
+    }
+
+    #subText {
+        font-size: 10px;
+        padding-top: 2vh;
     }
 }
