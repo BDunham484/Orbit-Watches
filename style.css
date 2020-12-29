@@ -10,6 +10,12 @@
 
 body {
     overflow-x: hidden;
+    background-color: #000000;
+}
+
+a {
+    text-decoration-line: none;
+    color: #da76f4;
 }
 
 /* **********HEADER********** */
@@ -66,22 +72,31 @@ header {
     color: antiquewhite;
     text-align: center;
     letter-spacing: 2px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    padding-left: 40px;
-    padding-right: 40px;
+    padding-left: 5vw;
+    padding-right: 5vw;
     margin-top: 5vh;
     margin-bottom: 5vh;
+    position: relative;
 }
 
 .textBoxes h1 {
     padding-bottom: 2vh;
+    color: #eddcf5;
 }
 
 .textBoxes li a {
-    white-space: nowrap;
+    text-decoration-line: none;
+}
+
+.text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
+
+#downloadMobile {
+    display: none;
 }
 
 /* **********WATCH GALLERY********** */
@@ -121,6 +136,14 @@ header {
 
     #headerText {
         padding-top: 75vh;
+    }
+
+    #downloadDesktop {
+        display: none;
+    }
+
+    #downloadMobile {
+        display: inline;
     }
 }
 
