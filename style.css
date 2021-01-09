@@ -181,7 +181,7 @@ footer {
 
 @media screen and (max-width: 1024px) {
     header {
-        background-image: url(../images/black-brick-wall-neon-logo-mobile.webp);
+        background-image: url(../images/brick-wall-neon-logo-mobile-1500w.webp);
     }
 
     #headerText {
@@ -197,7 +197,17 @@ footer {
     }
 }
 
+/* @media screen and (max-width: 900px) {
+    header {
+        background-image: url(../images/brick-wall-neon-logo-mobile-800w.webp);
+    }
+} */
+
 @media screen and (max-width: 800px) {
+    /* header {
+        background-image: url(../images/brick-wall-neon-logo-mobile-700w.webp);
+    } */
+
     #headerText {
         padding-top: 60vh;
         letter-spacing: 2px;
@@ -214,6 +224,7 @@ footer {
 }
 
 @media screen and (max-width: 400px) {
+   
     #headerText {
         letter-spacing: 1px;
     }
@@ -227,9 +238,4 @@ footer {
         padding-top: 2vh;
     }
 }
-/* 
-@media screen and (max-width: 450px) {
-    header {
-        background-image: url(../images/logo-mobile-450w.webp);
-    }
-} */
+
