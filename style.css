@@ -178,6 +178,11 @@ footer {
 
 
 /* **********MEDIA QUERIES********** */
+@media screen and (max-width: 3000px) {
+    header {
+        background-image: url(../)
+    }
+}
 
 @media screen and (max-width: 1024px) {
     header {
@@ -222,7 +227,6 @@ footer {
         padding-top: 3vh;
     }
 }
-
 
 
 @media screen and (max-width: 400px) {
