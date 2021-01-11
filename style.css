@@ -26,7 +26,7 @@ a {
 }
 
 header {
-    background-image: url(../images/black-brick-wall-neon-logo-desktop.webp);
+    background-image: url(../images/3888w-min.webp);
     background-size: cover;
     background-position: center;
     width: 100vw;
@@ -178,15 +178,34 @@ footer {
 
 
 /* **********MEDIA QUERIES********** */
+
 @media screen and (max-width: 3000px) {
     header {
-        background-image: url(../)
+        background-image: url(../images/3000w-min.webp)
+    }
+}
+
+@media screen and (max-width: 2500px) {
+    header {
+        background-image: url(../images/2500w-min.webp)
+    }
+}
+
+@media screen and (max-width: 2000px) {
+    header {
+        background-image: url(../images/2000w-min.webp)
+    }
+}
+
+@media screen and (max-width: 1500px) {
+    header {
+        background-image: url(../images/1500w-min.webp)
     }
 }
 
 @media screen and (max-width: 1024px) {
     header {
-        background-image: url(../images/brick-wall-neon-logo-mobile-1500w.webp);
+        background-image: url(../images/1024w-min.webp);
     }
 
     #headerText {
