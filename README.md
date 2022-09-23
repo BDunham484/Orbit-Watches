@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./images/orbit-logo.png" width="100" height="100" />
 </p>
-<h1 align="center">Orbit-Watches</h1>
+# <h1 align="center">Orbit-Watches</h1>
 
 <p align="center">A website to showcase my Fitbit watch faces.</p>
 
@@ -13,7 +13,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 
-
+## Description
 
 <p align="center">
   <img src="./images/1024w-min.webp" />
