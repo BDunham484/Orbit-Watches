@@ -1,7 +1,7 @@
-<p align="center">
+<span align="center">
   <img src="./images/orbit-logo.png" width="100" height="100" />
-</p>
-# <h1 align="center">Orbit-Watches</h1>
+</span>
+<h1 align="center">Orbit-Watches</h1>
 
 <p align="center">A website to showcase my Fitbit watch faces.</p>
 
