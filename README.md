@@ -1,4 +1,4 @@
-<img>![Orbit Watches Logo](./images/orbit-logo.png)</img>
+<img align="center">![Orbit Watches Logo](./images/orbit-logo.png)</img>
 # <h1 align="center">Orbit-Watches <br>![orbit Logo](./images/1024w-min.webp)</h1>
 
 <p align="center">A website to showcase my Fitbit watch faces.</p>
