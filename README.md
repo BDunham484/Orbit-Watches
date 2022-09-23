@@ -9,14 +9,16 @@
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 
 ## Description
 
-I created a simple webiste using HTML and CSS to display the Fitbit clock faces I have developed.  Each watch face is a link with details on how to purchase and install to your personal Fitbit.
+I created a simple webiste using HTML and CSS to display the Fitbit clock faces I have developed.  There are details on how to download, purchase, and troubleshoot.  Each watch face is a link to the Fitbit watch gallery.
 
 <p align="center">
   <img src="./images/1024w-min.webp" />
 </p>
+
+<hr>
+### Made with ❤️ by  Brad Dunham
