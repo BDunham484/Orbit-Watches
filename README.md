@@ -21,4 +21,5 @@ I created a simple webiste using HTML and CSS to display the Fitbit clock faces 
 </p>
 
 <hr>
+
 ### Made with ❤️ by  Brad Dunham
