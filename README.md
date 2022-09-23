@@ -1,6 +1,6 @@
-<span align="center">
+<p align="center">
   <img src="./images/orbit-logo.png" width="100" height="100" />
-</span>
+</p>
 <h1 align="center">Orbit-Watches</h1>
 
 <p align="center">A website to showcase my Fitbit watch faces.</p>
@@ -14,6 +14,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 
 ## Description
+
+I created a simple webiste using HTML and CSS to display the Fitbit clock faces I have developed.  Each watch face is a link with details on how to purchase and install to your personal Fitbit.
 
 <p align="center">
   <img src="./images/1024w-min.webp" />
