@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/orbit-logo.png" width="600px" height="auto" />
+  <img src="./images/orbit-logo.png" width="600px" height="600px" />
 </p>
 # <h1 align="center">Orbit-Watches <br>![orbit Logo](./images/1024w-min.webp)</h1>
 
