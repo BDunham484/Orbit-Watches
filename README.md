@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./images/orbit-logo.png" width="600px" height="600px" />
 </p>
-# <h1 align="center">Orbit-Watches <br>![orbit Logo](./images/1024w-min.webp)</h1>
+<h1 align="center">Orbit-Watches</h1>
 
 <p align="center">A website to showcase my Fitbit watch faces.</p>
 
@@ -12,3 +12,9 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+
+
+
+<p align="center">
+  <img src="./images/1024w-min.webp" />
+</p>
