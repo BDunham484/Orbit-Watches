@@ -20,5 +20,7 @@ I created a simple webiste using HTML and CSS to display the Fitbit clock faces 
   <img src="./images/1024w-min.webp" />
 </p>
 
+Deployed <a href="https://www.orbit-watches.com">here</a>!
 <hr>
+
 ### Made with ❤️ by  Brad Dunham
