@@ -14,7 +14,7 @@
 
 ## Description
 
-I created a simple webiste using HTML and CSS to display the Fitbit clock faces I have developed.  There are details on how to download, purchase, and troubleshoot.  Each watch face is a link to the Fitbit watch gallery.
+I created a simple webiste using HTML and CSS to display the Fitbit clock faces I have developed.  There are details on how to download, purchase, and troubleshoot.  Each watch face is a link to where they are displayed in the Fitbit watch gallery.
 
 <p align="center">
   <img src="./images/1024w-min.webp" />
